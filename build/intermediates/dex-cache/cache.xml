@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="e1a814b57211d26d57362dc52551093156329f36">
+        sha1="f235226ce899c0a5c02beb0e09967d8e7e85211f">
         <dex dex="C:\Users\Alex\AndroidStudioProjects\ClientApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dedbb1181bc36f64fd8559f5ba516436021336be.jar" />
     </item>
     <item
